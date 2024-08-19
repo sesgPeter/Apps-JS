@@ -11,3 +11,8 @@ body {
 .para1 {
     padding: 2em;
 }
+
+header {
+    background-color: blue;
+    color: white;
+}
